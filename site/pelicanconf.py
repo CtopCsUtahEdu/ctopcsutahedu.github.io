@@ -3,6 +3,7 @@ SITENAME = 'CTOP'
 SITEURL = ''
 
 PATH = 'content'
+THEME = 'themes/ctop'
 OUTPUT_PATH = '../docs'
 DELETE_OUTPUT_DIRECTORY = True
 
