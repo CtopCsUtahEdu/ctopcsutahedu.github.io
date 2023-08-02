@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Compiler Technology to Optimize Performance</title>
+	<atom:link href="http://ctop.cs.utah.edu/ctop/?feed=rss2" rel="self" type="application/rss+xml" />
+	<link>http://ctop.cs.utah.edu/ctop</link>
+	<description></description>
+	<lastBuildDate>Tue, 12 Nov 2013 18:22:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>http://ctop.cs.utah.edu/ctop/wp-content/uploads/2016/06/cropped-Utah_Utes_-_U_logo.svg_-32x32.png</url>
+	<title>Compiler Technology to Optimize Performance</title>
+	<link>http://ctop.cs.utah.edu/ctop</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Presentation from Workshop on Stencil Computations SPLASH 2013</title>
+		<link>http://ctop.cs.utah.edu/ctop/?p=67</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 12 Nov 2013 18:22:57 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://ctop.cs.utah.edu/ctop/?p=67</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>8th HiPEAC conference slides</title>
+		<link>http://ctop.cs.utah.edu/ctop/?p=60</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 30 Jan 2013 18:30:26 +0000</pubDate>
+				<category><![CDATA[Talks]]></category>
+		<category><![CDATA[HiPEAC 2013]]></category>
+		<guid isPermaLink="false">http://ctop.cs.utah.edu/ctop/?p=60</guid>
+
+					<description><![CDATA[The 8th HiPEAC conference slides, presented by Protonu Basu, are up. This work, product of Malik Muhammad Zaki Murtaza Khan&#8217;s PhD tesis, presents how autotunning  can help to produce top performance code for GPU technology. With the help search space pruning techniques, results presents that is possible to slots generate code that can have peak performance, sometimes [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The 8th HiPEAC conference slides, presented by Protonu Basu, are up. This work, product of Malik Muhammad Zaki Murtaza Khan&#8217;s PhD tesis, presents how autotunning  can help to produce top performance code for GPU technology. With the help search space pruning techniques, results presents that is possible to <a style="text-decoration: none; font-weight:normal;" href = "http://mobileslotcash.com/"><font color="666666">slots</font></a> generate code that can have peak performance, sometimes it can beat, as handtunned codes. Download the presentation (<a href="http://dl.dropbox.com/u/71063566/CTOP-conferences/hipeac13-protonu.pptx">PPTX</a>) for more details.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>HIPS 2012 workshop presentation added</title>
+		<link>http://ctop.cs.utah.edu/ctop/?p=53</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 13 Aug 2012 18:14:10 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://ctop.cs.utah.edu/ctop/?p=53</guid>
+
+					<description><![CDATA[The workshop talk given by Shreyas Ramalingam in 17TH International Workshop on Hi-Level Parallel Programming Models and Supportive Environments (HIPS) (China, May 2012) was recently added. In his talk, Shreyas presents how to improve Sparse Libraries using compilers specializations. Using PETSc as a test case, it is possible to extract more performance from the compiler [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>The workshop talk given by Shreyas Ramalingam in 17TH International Workshop on Hi-Level Parallel Programming Models and Supportive Environments (<strong>HIPS</strong>) (China, May 2012) was recently added. In his talk, Shreyas presents how to improve Sparse Libraries using compilers specializations. Using PETSc as a test case, it is possible to extract more performance from the compiler without changing the hardware. For more details, download the presentation from <a title="Talks" href="http://ctop.cs.utah.edu/ctop/?page_id=19">Talks</a>, or use this link (<a href="https://dl.dropbox.com/u/71063566/CTOP-conferences/HIPS-2012.pptx">PDF</a>).</p>
+<p>17TH INTERNATIONAL WORKSHOP ON HIGH-LEVEL PARALLEL PROGRAMMING MODELS AND SUPPORTIVE ENVIRONMENTS</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PLDI 2012 talk added</title>
+		<link>http://ctop.cs.utah.edu/ctop/?p=31</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Jun 2012 23:53:08 +0000</pubDate>
+				<category><![CDATA[Talks]]></category>
+		<guid isPermaLink="false">http://ctop.cs.utah.edu/ctop/?p=31</guid>
+
+					<description><![CDATA[The Programming Language Design and Implementation (PLDI) 2012 conference talk (China, June 2012) has been added. Titled Polyhedra Scanning Revisited, and presented by Anand Venkat, this talk discusses the impact of reducing control flow in a code due to complex transformations sequences. These reductions lead to loop overhead minimization as well as reduction in the frequency of conditional checks, resulting in [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="text-align: justify;">The Programming Language Design and Implementation (<strong>PLDI</strong>) 2012 conference talk (China, June 2012) has been added. Titled <em>Polyhedra Scanning Revisited</em>, and presented by Anand Venkat, this talk discusses the impact of reducing control flow in a code due to complex transformations sequences. These reductions lead to loop overhead minimization as well as reduction in the frequency of conditional checks, resulting in better performing scientific code. For more information, please download the talk <a href="http://db.tt/PLzBvpTc">here</a> or visit the <a href="http://echo6.cs.utah.edu/wordpress/?page_id=170">Talks</a> page under Conferences tab.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>New CTOP Website</title>
+		<link>http://ctop.cs.utah.edu/ctop/?p=29</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 25 Jun 2012 23:52:26 +0000</pubDate>
+				<category><![CDATA[About]]></category>
+		<guid isPermaLink="false">http://ctop.cs.utah.edu/ctop/?p=29</guid>
+
+					<description><![CDATA[We are happy to announce that our new group website is up. Here is a brief list of the new content: Updated list of group members The group&#8217;s most recent publications, citations sorted into Tabs for easier search PDFs of recent talks Tools developed by our group can now be directly downloaded from our site Archive [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>We are happy to announce that our new group website is up. Here is a brief list of the new content:</p>
+<ul>
+<li>Updated list of group members</li>
+<li>The group&#8217;s most recent publications, citations sorted into Tabs for easier search</li>
+<li>PDFs of recent talks</li>
+<li>Tools developed by our group can now be directly downloaded from our site</li>
+<li>Archive page</li>
+</ul>
+<p><span style="color: #ff0000;">Coming soon:</span> A page providing an overview of our different research areas and  the group members working on them.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
