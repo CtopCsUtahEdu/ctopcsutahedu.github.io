@@ -3,13 +3,20 @@ SITENAME = 'CTOP'
 SITEURL = ''
 
 PATH = 'content'
-THEME = 'themes/ctop'
+THEME = 'Flex'
 OUTPUT_PATH = '../docs'
 DELETE_OUTPUT_DIRECTORY = True
 
-TIMEZONE = 'America/Denver'
+TIMEZONE = 'US/Mountain'
 
 DEFAULT_LANG = 'en'
+
+# Flex config
+SITENAME = "Compiler Technology to Optimize Performance"
+SITETITLE = "CTOP"
+SITEDESCRIPTION = "Compiler Technology to Optimize Performance at The University of Utah Kahlert School of Computing"
+SITELOGO = "/images/Compiler-Technology-to-Optimize-Performance_1.png"
+FAVICON = "/images/cropped-Utah_Utes_-_U_logo.svg_-192x192.png"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
