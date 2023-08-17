@@ -3,7 +3,7 @@ SITENAME = 'CTOP'
 SITEURL = ''
 
 PATH = 'content'
-THEME = 'Flex'
+THEME = 'themes/elegant'
 OUTPUT_PATH = '../docs'
 DELETE_OUTPUT_DIRECTORY = True
 
@@ -17,6 +17,7 @@ SITETITLE = "CTOP"
 SITEDESCRIPTION = "Compiler Technology to Optimize Performance at The University of Utah Kahlert School of Computing"
 SITELOGO = "/images/Compiler-Technology-to-Optimize-Performance_1.png"
 FAVICON = "/images/cropped-Utah_Utes_-_U_logo.svg_-192x192.png"
+LANDING_PAGE_TITLE = "Welcome to the CTOP Page"
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
