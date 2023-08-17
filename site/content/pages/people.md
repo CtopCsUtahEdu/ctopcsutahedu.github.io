@@ -1,13 +1,11 @@
 Title: People
 
-![Mary Hall]({static}/images/headshots/hall-headshot-2019-small.jpg)[Mary Hall](http://www.cs.utah.edu/~mhall/)
-![Tuowen Zhao]({static}/images/headshots/Tuowen-Thumbnail.jpg)[Tuowen Zhao (Ph.D.)](https://scholar.google.com/citations?user=vb86UK4AAAAJ&hl=en)
-![Tharindu Rusira]({static}/images/headshots/Tharindu-Thumbnail.jpg)[Tharindu Rusira (Ph.D.)](http://www.cs.utah.edu/~tharindu/)
-![Payal Nandy]({static}/images/headshots/Payal-Thumbnail.jpg)[Payal Nandy (Ph.D.)](https://www.linkedin.com/in/payal-guha-nandy-2bb7201a/)
-![Khalid Ahmad]({static}/images/headshots/Khalid-Thumbnail.jpg)[Khalid Ahmad (Ph.D.)](https://scholar.google.com/citations?user=wssOY1sAAAAJ&hl=en)
-![Mahesh Lakshminarasimhan]({static}/images/headshots/Mahesh-Thumbnail.jpg)[Mahesh Lakshminarasimhan (Ph.D.)](https://www.cs.utah.edu/~maheshl)
-![John Jolly](https://drive.google.com/thumbnail?id=1gK-k2nBGfGZJXEBNDw8P4KHR3Nu_Z9fb)[John Jolly (Ph.D.)](https://www.linkedin.com/in/jjolly)
+- <img src="{static}/images/headshots/hall-headshot-2019-small.jpg" alt="Dr. Mary Hall" width="100px" style="vertical-align: middle;"/>[Dr. Mary Hall](http://www.cs.utah.edu/~mhall/)
+- <img src="{static}/images/headshots/Khalid-Thumbnail.jpg" alt="Khalid Ahmad" width="100px" style="vertical-align: middle;"/>[Khalid Ahmad (Ph.D. Student)](https://scholar.google.com/citations?user=wssOY1sAAAAJ&hl=en)
+- <img src="{static}/images/headshots/Mahesh-Thumbnail.jpg" alt="Mahesh Lakshminarasimhan" width="100px" style="vertical-align: middle;"/>[Mahesh Lakshminarasimhan (Ph.D. Student)](https://www.cs.utah.edu/~maheshl)
+- <img src="https://drive.google.com/thumbnail?id=1gK-k2nBGfGZJXEBNDw8P4KHR3Nu_Z9fb" alt="John Jolly" width="100px" style="vertical-align: middle;"/>[John Jolly (Ph.D. Student)](https://www.linkedin.com/in/jjolly)
 
+# Former Students
 - [Vinu Sreenivasan](https://www.linkedin.com/in/vinu-sreenivasan/) (MS)
 - [Huihui Zhang](https://www.linkedin.com/in/huihuizhanguofu2013/) (MS, now at Qualcomm)
 - [Amit Roy](https://www.linkedin.com/in/aroy56/) (MS, now at Google)
@@ -24,3 +22,6 @@ Title: People
 - [Gagandeep Singh Sachdev](https://www.linkedin.com/in/gagandeepsinghsachdev/) (MS, now at AMD)
 - [Malik Muhammad Zaki Murtaza Khan](https://scholar.google.com/citations?user=1Z3iDeAAAAAJ&hl=en&oi=sra) (Ph.D.)
 - [Shreyas Ramalingam](https://www.linkedin.com/in/shreyas-ramalingam-16050a10/) (MS, now at AMD)
+- [Payal Nandy](https://www.linkedin.com/in/payal-guha-nandy-2bb7201a/) (Ph.D.)
+- [Tharindu Rusira](http://www.cs.utah.edu/~tharindu/) (Ph.D.)
+- [Tuowen Zhao](https://scholar.google.com/citations?user=vb86UK4AAAAJ&hl=en) (Ph.D.)
