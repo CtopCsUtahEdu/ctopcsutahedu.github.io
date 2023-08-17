@@ -1,3 +1,5 @@
-Title: About
+Title: Who We Are, What We Do...
+status: hidden
+slug: landing-page-about-hidden
 
 Our research focuses on compiler-based approaches to obtaining high performance on state-of-the-art and experimental architectures, including many-cores, GPUs and supercomputing platforms. We are developing autotuning compiler technology to systematically map application code to make efficient use of these diverse architectures. An autotuning compiler generates a set of alternative implementations of a computation, and uses a combination of analytical models, statistical models, and empirical measurement to select the best-performing solution. Our compiler can work automatically or collaboratively with application programmers to accelerate their performance tuning and in some cases, produce results far better than is possible with manual tuning.   As data movement is the dominant cost of program execution, our recent research is examining how to develop programming systems where data representations provide the foundation, and programs are defined as aggregate operations on data representations.  When combined with autotuning, such systems can be adapted to different architectures, as we prepare for the advent of exascale architectures.
