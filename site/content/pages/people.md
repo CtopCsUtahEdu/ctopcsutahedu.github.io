@@ -4,6 +4,7 @@ Title: People
 - <img src="{static}/images/headshots/Khalid-Thumbnail.jpg" alt="Khalid Ahmad" width="100px" style="vertical-align: middle;"/>[Khalid Ahmad (Ph.D. Student)](https://scholar.google.com/citations?user=wssOY1sAAAAJ&hl=en)
 - <img src="{static}/images/headshots/Mahesh-Thumbnail.jpg" alt="Mahesh Lakshminarasimhan" width="100px" style="vertical-align: middle;"/>[Mahesh Lakshminarasimhan (Ph.D. Student)](https://www.cs.utah.edu/~maheshl)
 - <img src="https://drive.google.com/thumbnail?id=1gK-k2nBGfGZJXEBNDw8P4KHR3Nu_Z9fb" alt="John Jolly" width="100px" style="vertical-align: middle;"/>[John Jolly (Ph.D. Student)](https://www.linkedin.com/in/jjolly)
+- <img src="https://users.cs.utah.edu/~tavak/assets/img/prof.JPG" alt="Amir Mohammad Tavakkoli" width="100px" style="vertical-align: middle;"/>[Amir Mohammad Tavakkoli (Ph.D. Student)](https://users.cs.utah.edu/~tavak/)
 - <img src="{static}/images/headshots/Sameeran.jpg" alt="Sameeran Joshi" width="100px" style="vertical-align: middle;"/>[Sameeran Joshi (Ph.D. Student)](https://sameeranjoshi.github.io/)
 
 # Former Students
